@@ -12,5 +12,11 @@
 - /dashboard (Private route)
 - /dashboard/check (Private route)
 
+## DevDependencies
+- tailwindcss (autoprefixer,postcss)
+- js-cookie
+- react-icons
+- react-router-dom
 
 
+ 
